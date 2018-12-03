@@ -13,7 +13,7 @@ from ship import Ship
 import game_functions as gf
 from shit_sound import Shit_Sound
 
-
+"""lalalallalalal"""
 def run_game():
     # 初始化游戏并创建一个屏幕对象
     pygame.init()
